@@ -10,6 +10,7 @@ namespace DataTypes
     {
         static void Main(string[] args)
         {
+            Exe_5.AreaOfCircle();
         }
     }
 }
